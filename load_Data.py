@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 import joblib
 # Folder where your images are stored
-data_dir = 'dataset'
+data_dir = './dataset'
 
 # Lists to store data and labels
 X = []
